@@ -17,5 +17,6 @@ function isValidWalk(walk) {
     }
     return ns === 0 && ew === 0
    }
-  
+
+   console.log('hello how are you')
    
